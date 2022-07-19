@@ -2,11 +2,15 @@
 Terminal pomodoro timer written in C++ using curses library
 
 h = increase by 30 seconds.
+
 l = decrease by 30 seconds.
+
 j = increase by 1 minute.
+
 k = decrease by 1 minute.
 
 s = start timer
+
 ctrl + c = stop timer.
 
 t = change theme (when the timer is stopped.
